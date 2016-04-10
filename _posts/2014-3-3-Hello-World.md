@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Konečně to funguje!!!
-(Volejte sláva a tři dny se radujte)
 ---
 
 Prvním a rozhodujícím krokem bylo rozchození Jekylla (Stojí za tím spusta úsilí,googlení a pár energiťáků). 
