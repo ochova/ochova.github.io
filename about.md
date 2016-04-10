@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Na tvorbu blogů jsem nikdy neměla čas a ani chuť. Tento počin je výsledkem zadání úkolu do předmětu Nástroje a Možnosti Internetu (dále jen NaMI) 
+
+Jako téma jsem si zvolila Havárii Černobylské elektrárny ku příležitosti jejícho 30. výročí. 
+
+Doufejme, že na rozdíl od nechvalně proslulé elektrárny dopadne tento Blog dobře.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+V rámci úkolů NaMI se bude stránka brzy začne zaplňovat dalšími informacemi. Prosím o strpení.
 
 ### Contact me
 
