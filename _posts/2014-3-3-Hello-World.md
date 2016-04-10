@@ -12,4 +12,3 @@ Zatím to vypadá, že funguje a doufejme, že fungovat bude, protože se jišt�
 
 ![Stand by](http://www.livemaguk.com/wp-content/uploads/2014/10/Wait-Meme-Cool-HD.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
