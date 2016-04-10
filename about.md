@@ -16,4 +16,3 @@ V rámci úkolů NaMI se stránka brzy začne zaplňovat dalšími informacemi. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
